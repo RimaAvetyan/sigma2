@@ -6830,7 +6830,7 @@
     padding-bottom: 7.5rem;
   }
   .g-padding-y-125--sm {
-    padding-top: 7.8125rem;
+    padding-top: 4rem;
     padding-bottom: 7.8125rem;
   }
   .g-padding-y-130--sm {
@@ -7365,4 +7365,8 @@
 .g-bg-color--primary-ltr {
   background-image: linear-gradient(145deg, rgba(19, 177, 205, 0.6) 0%, #13b1cd 100%);
   background-repeat: repeat-x;
+}
+
+#management {
+  margin-bottom: 2rem;
 }
