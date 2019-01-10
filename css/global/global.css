@@ -6653,8 +6653,8 @@
 }
 
 .g-padding-y-80--xs {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 3rem;
+  padding-bottom: 0rem;
 }
 
 .g-padding-y-85--xs {
@@ -6830,8 +6830,8 @@
     padding-bottom: 7.5rem;
   }
   .g-padding-y-125--sm {
-    padding-top: 4rem;
-    padding-bottom: 7.8125rem;
+    padding-top: 3rem;
+    padding-bottom: 4rem;
   }
   .g-padding-y-130--sm {
     padding-top: 8.125rem;
