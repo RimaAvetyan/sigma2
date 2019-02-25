@@ -7368,5 +7368,9 @@
 }
 
 #management {
-  margin-bottom: 2rem;
+  margin-bottom: 0.02rem;
+}
+
+li {
+  font-size: 22px;
 }
