@@ -7369,8 +7369,17 @@
 
 #management {
   margin-bottom: 0.02rem;
+  color: white;
+  padding: 20px;
 }
 
 li {
   font-size: 22px;
+}
+
+#separator {
+  margin: auto;
+  text-align: center;
+  background-color: #4F4F4F;
+  /* color: white; */
 }
